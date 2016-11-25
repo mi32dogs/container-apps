@@ -1,14 +1,14 @@
 [
     {
-        "description": "GitLab is a web-based Git repository manager with code reviews, issue tracking, activity feeds and wikis.",
+        "description": "Silverstripe",
         "repository": "dockerhub",
         "arch": "amd64",
-        "icon": "http://download.qnap.com/QPKG/images/QPKG/container/app_gitlab.png",
-        "displayName": "GitLab",
-        "name": "gitlab",
-        "version": "8.9.6",
-        "location": "https://hub.docker.com/r/sameersbn/gitlab/",
-        "type": "app"
+        "icon": "http://download.qnap.com/QPKG/images/QPKG/container/deluge_icon.png",
+        "displayName": "Silverstripe",
+        "name": "x4j5/silverstripe-lamp",
+        "version": "latest",
+        "location": "https://hub.docker.com/r/x4j5/silverstripe-lamp/",
+        "type": "docker"
     },
     {
         "description": "GitLab is a web-based Git repository manager with code reviews, issue tracking, activity feeds and wikis.",
